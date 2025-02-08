@@ -1,5 +1,5 @@
 export interface apiResponse {
   status: boolean;
-  messsage: string;
+  message: string;
   data: any;
 }
